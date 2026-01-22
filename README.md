@@ -4,4 +4,4 @@ There's 1 version where it's just the bare bones of the modpack and one where it
 
 I only created this github page for bugs and stuff and i'm not into coding or github in general. Just wanted to use the standart for bug reports.
 
-###  Liscensed under CC-BY-NC-SA 4.0
+###  Liscensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
